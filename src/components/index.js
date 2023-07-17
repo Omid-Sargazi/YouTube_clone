@@ -3,4 +3,5 @@ export { default as ChannelId } from "./ChannelId";
 export { default as VideoDetail } from "./VideoDetail";
 export { default as SearchFeed } from "./SearchFeed";
 export { default as Navbar } from "./Navbar";
-export { default as SearcBar } from "./SearchBar";
+export { default as SearchBar } from "./SearchBar";
+export { default as SideBar } from "./SideBar";
